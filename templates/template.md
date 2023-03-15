@@ -1,3 +1,11 @@
+---
+layout: default
+title: Template
+nav_order: 2
+---
+
+
+
 Sistema de fichaje lecturas
 1. Agregar etiqueta en Zotero = aaaamm_ignacio para marcar el texto como leído
 2. Completar la ficha del texto, debe contener la cita completa en formato APA y el link o la carpeta para identificarlo en Zotero.
