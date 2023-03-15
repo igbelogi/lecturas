@@ -2,7 +2,7 @@
 layout: default
 title: templates
 parent: templates
-nav_order: 2
+nav_order: 3
 ---
 
 Sistema de fichaje lecturas
