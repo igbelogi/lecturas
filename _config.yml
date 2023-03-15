@@ -2,6 +2,9 @@ title: Lecturas Doctorado
 description: Esta web se hizo para compartir las lecturas realizadas por Ignacio Belogi para su doctorado en estudios urbanos
 theme: just-the-docs
 
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -29,6 +32,3 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
-
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
