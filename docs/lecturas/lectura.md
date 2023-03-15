@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lecturas
-nav_order: 5
+nav_order: 3
 has_children: true
 permalink: /docs/lecturas
 ---
