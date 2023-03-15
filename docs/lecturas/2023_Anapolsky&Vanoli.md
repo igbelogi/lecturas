@@ -2,7 +2,6 @@
 layout: default
 title: Lecturas
 parent: lecturas
-nav_order: 6
 ---
 
 
