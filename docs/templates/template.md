@@ -1,7 +1,7 @@
 ---
 layout: default
 title: template
-parent: templates
+parent: Templates
 ---
 
 Sistema de fichaje lecturas
